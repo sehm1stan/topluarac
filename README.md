@@ -15,4 +15,3 @@ Termux için tamamen Türkçe toplu araç projesi.
 -Stres Testi
 -Termux Yardımcı Araçlar
 
-	
